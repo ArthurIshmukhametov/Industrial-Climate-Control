@@ -1,0 +1,14 @@
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\bin\Debug\MQTT.exe.config
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\bin\Debug\MQTT.exe
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\bin\Debug\MQTT.pdb
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\bin\Debug\M2Mqtt.Net.dll
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\obj\Debug\MQTT.csprojAssemblyReference.cache
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\obj\Debug\MQTT.Form1.resources
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\obj\Debug\MQTT.Properties.Resources.resources
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\obj\Debug\MQTT.csproj.GenerateResource.cache
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\obj\Debug\MQTT.csproj.CoreCompileInputs.cache
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\obj\Debug\MQTT.csproj.CopyComplete
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\obj\Debug\MQTT.exe
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\obj\Debug\MQTT.pdb
+C:\Users\aptyp\Desktop\ДИПЛОМ\mqtt_wiev\MQTT\MQTT\obj\Debug\MQTT.SettingsForm.resources
